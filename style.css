@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aqua;
+    width: auto;
+    height: 200px;
+}
+h1{
+    font-size: 36px;
+    position: relative;
+    background-position: center;
+    transform-style: initial;
+    tra
+}
+h1 :hover{
+    width: 300px;
+}
